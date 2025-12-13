@@ -1,0 +1,3 @@
+flask
+# Các thư viện khác bạn dùng (ví dụ: discord, requests, telebot...)
+# Viết tên thư viện vào đây, mỗi cái 1 dòng
