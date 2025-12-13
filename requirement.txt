@@ -1,0 +1,3 @@
+flask
+gunicorn
+# thêm tên các thư viện khác bạn dùng (vd: discord, requests...)
